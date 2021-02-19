@@ -1,0 +1,21 @@
+D:\Project\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+D:\Project\TextToSpeech\bin\Debug\TextToSpeech.exe
+D:\Project\TextToSpeech\bin\Debug\TextToSpeech.pdb
+D:\Project\TextToSpeech\bin\Debug\XanderUI.dll
+D:\Project\TextToSpeech\obj\Debug\TextToSpeech.csprojResolveAssemblyReference.cache
+D:\Project\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+D:\Project\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+D:\Project\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.Cache
+D:\Project\TextToSpeech\obj\Debug\TextToSpeech.exe.licenses
+D:\Project\TextToSpeech\obj\Debug\TextToSpeech.exe
+D:\Project\TextToSpeech\obj\Debug\TextToSpeech.pdb
+D:\Programming\Other Projects\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+D:\Programming\Other Projects\TextToSpeech\obj\Debug\TextToSpeech.exe
+D:\Programming\Other Projects\TextToSpeech\obj\Debug\TextToSpeech.pdb
+D:\Programming\Other Projects\TextToSpeech\bin\Debug\TextToSpeech.exe
+D:\Programming\Other Projects\TextToSpeech\bin\Debug\TextToSpeech.pdb
+D:\Programming\Other Projects\TextToSpeech\obj\Debug\TextToSpeech.csprojResolveAssemblyReference.cache
+D:\Programming\Other Projects\TextToSpeech\obj\Debug\TextToSpeech.Frm_TexttoSpeech.resources
+D:\Programming\Other Projects\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+D:\Programming\Other Projects\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.Cache
+D:\Programming\Other Projects\TextToSpeech\obj\Debug\TextToSpeech.exe.licenses
